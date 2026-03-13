@@ -1,5 +1,5 @@
 ### Olá, Eu sou João Vitor 👋 
-Sou um estudante apaixonado por tecnologia com o objetivo de me tornar um desenvolvedor Full-Stack.
+Sou um estudante apaixonado por tecnologia com o objetivo de me tornar um desenvolvedor Front-End.
 
 Minha jornada é impulsionada pelo desejo de criar websites interativos e aplicações inovadoras, explorando o poder de tecnologias como JavsScript, HTML5 e CSS3.
 
@@ -45,10 +45,6 @@ Atualmente, estou aprimorando minhas habilidades em duas frentes:
   </tr>
 </table>
 
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joão1)
-
 
 
 ### 🛠️ Tecnologias que estudo
@@ -67,6 +63,10 @@ Banco de dados:
 Ferramentas e versionamento:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joão1)
 
 ### 🌟 Citação
 
