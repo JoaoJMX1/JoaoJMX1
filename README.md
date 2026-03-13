@@ -84,4 +84,4 @@ Ferramentas e versionamento:
 
 ### 🌟 Citação
 
-_"Seja um parâmetro de qualidade. Algumas pessoas não estão acostumadas a um ambiente onde a excelência é esperada"_ - Steve Jobs
+_"O sucesso é a soma de pequenos esforços repetidos dia após dia."_ — Robert Collier
