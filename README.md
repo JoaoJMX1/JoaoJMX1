@@ -44,7 +44,7 @@ Estou procurando colaborar em projetos Front-End
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/joão1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](htttps://www.linkedin.com/in/joão1)
 
 
 
