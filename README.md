@@ -1,11 +1,14 @@
 ### Olá, Eu sou João Vitor 👋 
-Sou um estudante com o objetivo de me tornar um desenvolvedor Front-End.
+Sou um estudante apaixonado por tecnologia com o objetivo de me tornar um desenvolvedor Full-Stack.
 
-Eu estou interessado em criar websites interativos e aplicações utilizando tecnologias como JavaScript,  HTML5,  e CSS3.
+Minha jornada é impulsionada pelo desejo de criar websites interativos e aplicações inovadoras, explorando o poder de tecnologias como JavsScript, HTML5 e CSS3.
 
-- 🔭 Eu estou atualmente trabalhando em...
-- 🌱 Eu estou aprendendo atuamente Desenvolvimento Front-End...
-- 👥️ Estou buscando colaborar em projetos de Front-End..
+Atualmente, estou aprimorando minhas habilidades em duas frentes:
+
+- 🔭 Eu estou atualmente trabalhando em Suporte Tecnico de T.I.
+- 🌱 Eu estou cursando atualmente Bacharelado em Tecnologia da Informação
+- 🌱 Eu estou cursando atualmente Técnico em Desenvolvimento de sistemas
+  
 
 
 
