@@ -20,27 +20,27 @@ Minha jornada é impulsionada pelo desejo de criar websites interativos e aplica
     <td style="border: none;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=JoaoVitordaSilvaCosta&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
+          srcset="https://github-readme-stats.vercel.app/api?username=JOAOJMX1&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=JoaoVitordaSilvaCosta&show_icons=true&title_color=C00102&icon_color=C00102"
+          srcset="https://github-readme-stats.vercel.app/api?username=JoaoJMX1&show_icons=true&title_color=C00102&icon_color=C00102"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitordaSilvaCosta&show_icons=true&title_color=C00102&icon_color=C00102" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JoaoJMX1&show_icons=true&title_color=C00102&icon_color=C00102" />
       </picture>
     </td>
     <td style="border: none;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitordaSilvaCosta&layout=compact&theme=dark&title_color=C00102"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJMX1&layout=compact&theme=dark&title_color=C00102"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitordaSilvaCosta&layout=compact&title_color=C00102"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJMX1&layout=compact&title_color=C00102"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitordaSilvaCosta&layout=compact&title_color=C00102" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJMX1&layout=compact&title_color=C00102" />
       </picture>
     </td>
   </tr>
